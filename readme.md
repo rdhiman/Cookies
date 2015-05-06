@@ -1,5 +1,3 @@
-Extract cookies from a website.
-
 ---------------
 
 Instructions:
