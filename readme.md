@@ -12,5 +12,3 @@ Right click and view page source. Search for "C:\Windows\Temp\".
 The .tmp file in that directory should have the logs of the cookies.
 
 ------------------
-
-HTML5
